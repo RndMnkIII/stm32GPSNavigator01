@@ -1,6 +1,5 @@
 # stm32GPSNavigator01 
-# ATENCIÓN/WARNING: CODIGO NO FUNCIONAL TODAVIA/
-NON-FUNCTIONAL CODE YET
+# ATENCIÓN/WARNING: CODIGO NO FUNCIONAL TODAVIA/NON-FUNCTIONAL CODE YET
 
 ## Implementación de un navegador GPS sencillo utilizando como hardware:
 - STM32F407ZGT6 Dev Board (https://es.aliexpress.com/item/High-Quality-STM32F407ZGT6-Development-Board-ARM-M4-STM32F4-Board-Compatibility-Multiple-Extension/32761236140.html?spm=a2g0s.9042311.0.0.9NfgLa)
