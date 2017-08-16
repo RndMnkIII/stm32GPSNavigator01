@@ -15,7 +15,7 @@
 
 ##Utiliza las siguientes librerias y secciones de código de terceros:
 * Core STM32GENERIC (https://github.com/danieleff/STM32GENERIC)
-* NMEA Library: [http://nmea.sourceforge.net/](http://nmea.sourceforge.net/)
+* NMEA Library: [http://nmea.sourceforge.net/](http://nmea.sourceforge.net/) -> (https://github.com/RndMnkIII/stm32_nmealib)
 * Código de conversión de coordenadas geograficas a UTM y viceversa LatLong-UTM.c++ by Eugene Reimer, ereimer@shaw.ca, 2002-December
 
 ##Diagrama de Conexion:
