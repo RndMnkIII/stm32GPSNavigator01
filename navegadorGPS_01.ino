@@ -10,6 +10,7 @@
 #include <GD23STM32.h>
 #include "UtilidadesGPS.h"
 #include "LatLongUTM.h"
+#include "navegadorGPS.h"
 
 
 String lineaEntrada; 
