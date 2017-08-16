@@ -15,9 +15,11 @@
 
 ##Utiliza las siguientes librerias y secciones de código de terceros:
 * Core STM32GENERIC (https://github.com/danieleff/STM32GENERIC)
+* GD23STM32_F103x,  FT81x Team (https://github.com/lightcalamar/GD23STM32_F103x)
 * NMEA Library: [http://nmea.sourceforge.net/](http://nmea.sourceforge.net/) -> (https://github.com/RndMnkIII/stm32_nmealib)
 * Código de conversión de coordenadas geograficas a UTM y viceversa LatLong-UTM.c++ by Eugene Reimer, ereimer@shaw.ca, 2002-December
 
 ##Diagrama de Conexion:
 ![CONEXION](images/CONEXIONADO.png?raw=true "CONEXION")
 
+Basado en el trabajo del equipo FT81X \(@ TFTLCDCyg, @lightcalamar and @RndMnkIII\). 2016-2017.
