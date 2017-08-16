@@ -1,6 +1,8 @@
-# stm32GPSNavigator01
+# stm32GPSNavigator01 
+# ATENCIÓN/WARNING: CODIGO NO FUNCIONAL TODAVIA/
+NON-FUNCTIONAL CODE YET
 
-##Implementación de un navegador GPS sencillo utilizando como hardware:
+## Implementación de un navegador GPS sencillo utilizando como hardware:
 - STM32F407ZGT6 Dev Board (https://es.aliexpress.com/item/High-Quality-STM32F407ZGT6-Development-Board-ARM-M4-STM32F4-Board-Compatibility-Multiple-Extension/32761236140.html?spm=a2g0s.9042311.0.0.9NfgLa)
 ![stm32f407zgt6](images/stm32f407zgt6.jpg?raw=true "STM32F407ZGT6"))
 
@@ -13,13 +15,13 @@
 - GPS Serial \(Modified HOLUX M1000 Bluetooth GPS\) 
 ![Modified HOLUX M1000 Bluetooth GPS](images/holuxM1000.jpg?raw=true "Holux M1000")
 
-##Utiliza las siguientes librerias y secciones de código de terceros:
+## Utiliza las siguientes librerias y secciones de código de terceros:
 * Core STM32GENERIC (https://github.com/danieleff/STM32GENERIC)
 * GD23STM32_F103x,  FT81x Team (https://github.com/lightcalamar/GD23STM32_F103x)
 * NMEA Library: [http://nmea.sourceforge.net/](http://nmea.sourceforge.net/) -> (https://github.com/RndMnkIII/stm32_nmealib)
 * Código de conversión de coordenadas geograficas a UTM y viceversa LatLong-UTM.c++ by Eugene Reimer, ereimer@shaw.ca, 2002-December
 
-##Diagrama de Conexion:
+## Diagrama de Conexion:
 ![CONEXION](images/CONEXIONADO.png?raw=true "CONEXION")
 
 Basado en el trabajo del equipo FT81X \(@ TFTLCDCyg, @lightcalamar and @RndMnkIII\). 2016-2017.
